@@ -30,3 +30,4 @@ or if you are a mac user
 ## Credits
 
 minig is based on the awesome Gogh tool by [Miguel D. Quintero](https://lanet.co)
+ASCII banner courtesy of [TAAG](http://patorjk.com/software/taag/#p=display&f=Isometric3&t=minig)
