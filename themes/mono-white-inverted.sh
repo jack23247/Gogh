@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # ====================CONFIG THIS =============================== #
-export COLOR_01="#3B3B3B"           # Black
+export COLOR_01="#FAFAFA"           # Black
 export COLOR_02="#262626"           # Red
 export COLOR_03="#262626"           # Green
 export COLOR_04="#262626"           # Yellow
