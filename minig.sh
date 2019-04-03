@@ -19,6 +19,7 @@ declare -a THEMES=(
   'mono-green.sh'
   'mono-red.sh'
   'mono-white.sh'
+  'mono-white-inverted.sh'
   'mono-yellow.sh'
 )
 
